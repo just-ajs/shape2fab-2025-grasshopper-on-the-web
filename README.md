@@ -66,7 +66,7 @@ npm run build
 ##### npm execution policy:
 `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`
 
-#### .NET framework
+##### .NET framework
 * Update .NET to 8.0
 * Make sure you are using that .NET version in `%AppData%/McNeel/Rhinoceros/packages/8.0/Hops/0.16.18/compute.geometry/compute.geometry.runtimeconfig.json`
 
