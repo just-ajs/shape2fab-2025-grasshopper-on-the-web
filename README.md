@@ -61,8 +61,15 @@ npm run dev
 npm run build
 ```
 
-#### Issues
+#### Issues:
 
-npm execution policy:
+##### npm execution policy:
 `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`
 
+#### .NET framework
+* Update .NET to 8.0
+* Make sure you are using that .NET version in `%AppData%/McNeel/Rhinoceros/packages/8.0/Hops/0.16.18/compute.geometry/compute.geometry.runtimeconfig.json`
+
+### References
+* https://developer.rhino3d.com/guides/compute/
+* https://threejs.org/
