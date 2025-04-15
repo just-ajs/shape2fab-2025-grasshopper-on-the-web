@@ -61,4 +61,8 @@ npm run dev
 npm run build
 ```
 
+#### Issues
+
+npm execution policy:
+`Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`
 
