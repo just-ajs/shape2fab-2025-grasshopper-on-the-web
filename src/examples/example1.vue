@@ -2,7 +2,7 @@
 
 import { ref } from "vue";
 
-import GeometryView from "../components/BurgerGeometryView.vue"
+import GeometryView from "../components/BurgerGeometryViewFull.vue"
 import Toggle from "../components/Toggle.vue"
 import Slider from "../components/Slider.vue"
 
